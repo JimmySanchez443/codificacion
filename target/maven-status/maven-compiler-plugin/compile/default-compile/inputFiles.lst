@@ -1,0 +1,17 @@
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\controller\AuthControler.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\security\CustomPasswordEncoder.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\security\JwtFilter.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\service\UsuarioDetailsServiceImpl.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\repository\UsuarioRepository.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\controller\UsuarioControlerDelete.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\CodificacionApplication.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\dto\AuthCredentialsRequest.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\service\RolService.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\service\UsuarioService.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\security\JwtUtil.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\model\Usuario.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\controller\UsuarioController.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\security\SecurityConfig.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\controller\RolControler.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\repository\RolRepository.java
+C:\Users\Jimmy Sanchez\Documents\manamer\codificacion\codificacion-master\src\main\java\com\api\codificacion\model\Rol.java
