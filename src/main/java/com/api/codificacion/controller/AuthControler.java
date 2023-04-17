@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 
 @RestController
-@RequestMapping("/api/v1")
+@RequestMapping("/api1/v1")
 public class AuthControler {
     @Autowired
     private AuthenticationManager authenticationManager;

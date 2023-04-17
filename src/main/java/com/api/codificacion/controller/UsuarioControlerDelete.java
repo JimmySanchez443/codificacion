@@ -16,7 +16,7 @@ public class UsuarioControlerDelete {
     @Autowired
     private final UsuarioService usuarioService;
 
-    @RequestMapping(value="/api/v1/delete/usuario/{id}", method= RequestMethod.DELETE)
+    @RequestMapping(value="/api1/v1/delete/usuario/{id}", method= RequestMethod.DELETE)
     public void deleteById(@PathVariable Long id){
         usuarioService.deleteById(id);
     }
